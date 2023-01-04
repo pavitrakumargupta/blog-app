@@ -1,0 +1,45 @@
+{
+    "article":[
+        {
+          "heading":"What if famous brands had regular fonts? Meet RegulaBrands!",
+          "subheading":"I’ve worked in UX for the better part of a decade.",
+          "name":"Sarthak Kamra",
+          "comments":["hello","hiii","bye"], 
+          "imageLink" :"http://itsbest10.com/wp-content/uploads/2020/11/Clothing-brands-in-india-1.png" 
+        },
+        {
+            "heading":"",
+          "subheading":"",
+          "name":"",
+          "comments":["hello","hiii","bye"], 
+          "imageLink" :"" 
+        }
+    ],
+    "Education":[
+        {
+            "heading":"Delhi Government initiates a dialogue with key stakeholders for school education in post-COVID 19 induced lockdown.",
+          "subheading":"Education Minister Manish Sisodia invites students, parents, teachers and Principals to give their suggestions for school education in post-Covid 19 induced lockdown.",
+          "name":"Vipenesh kumar",
+          "comments":["hello","hiii","bye"], 
+          "imageLink" :"https://etimg.etb2bimg.com/photo/75729614.cms" 
+        }
+    ],
+    "Meeting":[
+        {
+            "heading":"Most of Tech companies met for the future of Metaverse and blockchain",
+            "subheading":"We build Metaverse for businesses using the next-gen technologies.",
+            "name":"Elon Musk",
+            "comments":["hello","hiii","bye"], 
+            "imageLink" :"https://assets-global.website-files.com/62196607bf1b46c300301846/62196607bf1b46ebfb301f19_5f5bc69416e7fb495275b378_how%2520leaders%2520run%2520meetings%2520tips%2520from%2520top%2520execs.jpeg" 
+        }
+    ],
+    "Job": [
+        {
+            "heading":"Made Easy - HR Manager (5-15 yrs) MADEEASY Education Pvt. Ltd.",
+            "subheading":"contact at - xyz@mail.com",
+            "name":"kyelar bali",
+            "comments":["hello","hiii","bye"], 
+            "imageLink" :"https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" 
+        }
+    ]
+}
